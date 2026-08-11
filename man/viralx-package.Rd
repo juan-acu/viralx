@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Juan Pablo Acuña González \email{acua6307@gmail.com} (\href{https://orcid.org/0009-0003-6029-6560}{ORCID})
+\strong{Maintainer}: Juan Pablo Acuña González \email{22253567@uagro.mx} (\href{https://orcid.org/0009-0003-6029-6560}{ORCID})
 
 }
 \keyword{internal}
