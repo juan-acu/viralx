@@ -15,6 +15,7 @@ Suggests:
     dplyr,
     earth,
     kknn,
+    qvirus,
     rsample,
     rules,
     testthat (>= 3.0.0),
@@ -26,8 +27,8 @@ LazyData: true
 Imports: 
     DALEX,
     DALEXtra,
+    glmnet,
     parsnip,
-    qvirus,
     recipes,
     stats,
     workflows
