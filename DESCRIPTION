@@ -27,6 +27,7 @@ Imports:
     DALEX,
     DALEXtra,
     parsnip,
+    qvirus,
     recipes,
     stats,
     workflows
