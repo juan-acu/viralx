@@ -2,6 +2,7 @@
 
 export(glob_cr_vis)
 export(glob_knn_vis)
+export(glob_lasso_vis)
 export(glob_nn_vis)
 export(viralx_knn)
 export(viralx_knn_glob)
