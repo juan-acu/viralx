@@ -41,7 +41,7 @@
 #'   lasso_hyperparameters = lasso_hyperparameters,
 #'   vip_train = vip_train,
 #'   v_train = v_train
-)
+#' )
 #' }
 glob_lasso_vis <- function(vip_featured, hiv_data, lasso_hyperparameters, vip_train, v_train) {
   
